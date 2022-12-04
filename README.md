@@ -27,5 +27,5 @@ In the matrix, it is evident that the model still has difficulties in recognizin
 
 
 
-### Further improvements:
+### Further TODO improvements:
 In future, the idea is to increase the testing accuracy by adding further regularization in the structure of the model. Also, I intend of adding some hyperparameters tuning.
